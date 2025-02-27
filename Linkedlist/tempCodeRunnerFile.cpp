@@ -1,0 +1,3 @@
+cirdeleteATEnd();
+    cirdeleteATEnd();
+    cirdisplay();
